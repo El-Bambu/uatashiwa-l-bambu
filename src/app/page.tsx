@@ -20,6 +20,7 @@ export default function Home() {
           priority
         />
         <h1>The CEO/CTO Himself!</h1>
+        <h1>{"Ma quindi e' morto davvero ? 😭"}</h1>
       </main>
     </div>
   );
